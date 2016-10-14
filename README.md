@@ -8,3 +8,5 @@ Example file names:
 
 
 ATTENTION : input file must be terminated with a newline
+
+Line ending : '\r\n'
